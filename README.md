@@ -61,10 +61,7 @@
 > <a href="https://drive.google.com/drive/folders/1wdD-mfSeIsHWgrMLJz8Tv_ClAuP_EAOQ?usp=sharing">Ссылка на проект</a>
 
 
-  <p>Выводы (итоги):<p>
-<ol>
-  <li>Итог №1</li>
-  <li>Итог №2</li>
+ 
 </ol>
 
 <br> 
